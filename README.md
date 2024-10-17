@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srihari116
 - 👀 I’m interested in Data Analytics Headings
-- 🌱 I’m currently pursuing under graduation 
-- 💞️ I’m looking to collaborate on beginner projects
+- 🌱 I’m currently pursuing master's in Data Science
+- 💞️ I’m looking to collaborate on data projects
 - 📫 can reach me by mailing @sriharim116@gmail.com
 
 <!---
